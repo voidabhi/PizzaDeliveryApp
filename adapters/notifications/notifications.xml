@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Licensed Materials - Property of IBM
+    5725-G92 (C) Copyright IBM Corp. 2011, 2013. All Rights Reserved.
+    US Government Users Restricted Rights - Use, duplication or
+    disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+-->
+<wl:adapter name="notifications"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:wl="http://www.worklight.com/integration"
+	xmlns:sql="http://www.worklight.com/integration/sql">
+
+	<displayName>notifications</displayName>
+	<description>notifications</description>
+	<connectivity>
+		<connectionPolicy xsi:type="sql:SQLConnectionPolicy">
+			<!-- Example for using a JNDI data source, replace with actual data source name -->
+			<!-- <dataSourceJNDIName>java:/data-source-jndi-name</dataSourceJNDIName> -->
+			
+			<!-- Example for using MySQL connector, do not forget to put the MySQL connector library in the project's lib folder -->
+			<dataSourceDefinition>
+				<driverClass>com.mysql.jdbc.Driver</driverClass>
+				<url>jdbc:mysql://localhost:3306/mfpizza</url>
+			    <user>root</user>
+    			<password></password> 
+			</dataSourceDefinition>
+		</connectionPolicy>
+		<loadConstraints maxConcurrentConnectionsPerNode="5" />
+	</connectivity>
+
+	<!-- Replace this with appropriate procedures -->
+	<procedure name="procedure1"/>
+	<procedure name="procedure2"/>
+	<procedure name="procedure3"/>
+
+</wl:adapter>

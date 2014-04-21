@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+		<!-- Licensed Materials - Property of IBM
+			 5725-G92 (C) Copyright IBM Corp. 2006, 2013. All Rights Reserved.
+			 US Government Users Restricted Rights - Use, duplication or
+             disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+
+<!-- Attribute "id" must be identical to application folder name -->
+<application id="mfpizza" platformVersion="5.0.6"
+	xmlns="http://www.worklight.com/application-descriptor" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<displayName>mfpizza</displayName>
+	<description>mfpizza</description>
+	<author>
+		<name>application's author</name>
+		<email>application author's e-mail</email>
+		<copyright>Copyright My Company</copyright>
+		<homepage>http://mycompany.com</homepage>
+	</author>
+	<height>460</height>
+	<width>320</width>
+	<mainFile>mfpizza.html</mainFile>
+	<thumbnailImage>common/images/thumbnail.png</thumbnailImage> 
+	<worklightServerRootURL>http://${local.IPAddress}:8080</worklightServerRootURL>
+	<!-- 
+		Uncomment one of the following options to use a different value for the Worklight Server root URL
+		<worklightServerRootURL>http://${local.hostname}:8080</worklightServerRootURL>
+		<worklightServerRootURL>http://${local.fullhostname}:8080</worklightServerRootURL>
+		<worklightServerRootURL>http://${local.IPAddress}:8080</worklightServerRootURL>
+	 -->
+	
+	<!-- 	
+	<android version="1.0">
+		Uncomment and update push sender ID in order to use push notifications for android
+		<pushSender key="keyTest" senderId="senderIdTest" />
+	</android>
+	-->
+</application>

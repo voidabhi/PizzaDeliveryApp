@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.worklight.studio.plugin.classpath.SERVER_CONTAINER"/>
+	<classpathentry kind="src" path="server/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/android project/PizzaApp/server/lib/mysql-connector-java-5.1.25-bin.jar" rootpath="/"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
