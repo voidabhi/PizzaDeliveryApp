@@ -11,3 +11,12 @@ Features
 2)Track pizza stores with google maps
 3)Place customized pizza order with bevarages and add-ons
 4)Receive notifications of discounts and deals
+
+Technologies Used
+==========================
+
+Worklight
+Html
+CSS
+Javascript
+Java
