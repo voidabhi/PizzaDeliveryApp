@@ -19,16 +19,15 @@ Features
 Technologies Used
 ==========================
 
-```Worklight Framework```
-```Html```
-```CSS```
-```Javascript```
-```Java```
+`Worklight Framework`
+`HTML5`
+`CSS`
+`Javascript`
+`Java`
 
 
 License
 ==========================
-```
 The MIT License (MIT)
 
 Copyright (c) 2014 Abhijeet Mohan - https://github.com/voidabhi/worklight-PizzaDeliveryApp
