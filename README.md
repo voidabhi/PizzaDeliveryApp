@@ -19,11 +19,11 @@ Features
 Technologies Used
 ==========================
 
-Worklight
-Html
-CSS
-Javascript
-Java
+```Worklight Framework```
+```Html```
+```CSS```
+```Javascript```
+```Java```
 
 
 License
