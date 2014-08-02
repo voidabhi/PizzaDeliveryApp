@@ -2,7 +2,7 @@ PizzaDeliveryApp
 ==========================
 Mobile app for ordering pizza online
 
-![PizzaDeliveryApp](https://raw.github.com/karan/HackerNewsAPI/master/HN.jpg)
+![PizzaDeliveryApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.jpg)
 
 Features
 ==========================
