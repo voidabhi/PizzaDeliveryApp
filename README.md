@@ -24,6 +24,7 @@ Technologies Used
 `CSS`
 `Javascript`
 `Java`
+`Facebook API`
 
 
 License
