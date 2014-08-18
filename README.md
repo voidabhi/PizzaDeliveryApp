@@ -9,7 +9,7 @@ Features
 
 1)Single sign on with Facebook and Twitter 
 
-2)Track pizza stores with google maps
+2)Store Tracker - Locate pizza stores near your place with google maps
 
 3)Place customized pizza order with bevarages and add-ons
 
