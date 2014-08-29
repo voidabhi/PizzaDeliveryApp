@@ -7,13 +7,13 @@ Mobile app for ordering pizza online
 Features
 ==========================
 
-1)Single sign on with Facebook and Twitter 
+`Single sign on with Facebook and Twitter `
 
-2)Store Tracker - Locate pizza stores near your place with google maps
+`Store Tracker - Locate pizza stores near your place with google maps`
 
-3)Place customized pizza order with bevarages and add-ons
+`Place customized pizza order with bevarages and add-ons`
 
-4)Receive notifications of discounts and deals
+`Receive notifications of discounts and deals`
 
 
 Technologies Used
