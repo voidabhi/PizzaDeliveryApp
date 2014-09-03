@@ -1,6 +1,6 @@
 PizzaDeliveryApp
 ==========================
-Mobile app for ordering pizza online
+Mobile app for ordering pizza online for IBM- TGMC 2013
 
 ![PizzaDeliveryApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.png)
 
