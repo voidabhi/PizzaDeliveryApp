@@ -22,6 +22,7 @@ Technologies Used
 `Worklight Framework`
 `HTML5`
 `CSS`
+`Jquery`
 `Javascript`
 `Java`
 `Facebook API`
