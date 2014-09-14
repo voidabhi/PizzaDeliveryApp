@@ -26,6 +26,7 @@ Technologies Used
 `Javascript`
 `Java`
 `Facebook API`
+'Google Maps API'
 
 
 License
