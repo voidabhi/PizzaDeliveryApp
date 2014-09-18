@@ -21,7 +21,7 @@ Technologies Used
 
 `Worklight Framework`
 `HTML5`
-`CSS`
+`CSS3`
 `Jquery`
 `Javascript`
 `Java`
