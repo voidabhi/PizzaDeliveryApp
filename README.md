@@ -24,7 +24,7 @@ Technologies Used
 `CSS3`
 `Jquery 1.7.2`
 `Javascript`
-`Java 7`
+`Java 7 SE`
 `Facebook API`
 `Google Maps API`
 
