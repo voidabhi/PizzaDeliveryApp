@@ -20,8 +20,8 @@ Technologies Used
 ==========================
 
 `Worklight Framework`
-`HTML5`
-`CSS3`
+`HTML 5`
+`CSS 3`
 `Jquery 1.7.2`
 `Javascript`
 `Java 7 SE`
