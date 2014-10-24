@@ -1,4 +1,4 @@
-PizzaDeliveryApp
+Pizza Delivery App
 ==========================
 Mobile app for ordering pizza online for [IBM- TGMC 2013](http://www.ibmtgmc.com)
 
