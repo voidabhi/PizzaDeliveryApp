@@ -19,7 +19,7 @@ Features
 Technologies Used
 ==========================
 
-`Worklight Framework`
+`IBM Worklight Framework`
 `HTML 5`
 `CSS 3`
 `Jquery 1.7.2`
