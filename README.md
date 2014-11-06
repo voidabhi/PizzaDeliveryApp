@@ -13,7 +13,7 @@ Features
 
 `Place customized pizza order with bevarages and add-ons`
 
-`Receive notifications of discounts and deals`
+`Notifier- Receive notifications of discounts and deals`
 
 
 Technologies Used
