@@ -11,7 +11,7 @@ Features
 
 `Store Tracker - Locate pizza stores near your place with google maps`
 
-`Place customized pizza order with bevarages and add-ons`
+`Order Placer - Place customized pizza order with bevarages and add-ons`
 
 `Notifier- Receive notifications of discounts and deals`
 
