@@ -7,7 +7,7 @@ Mobile app for ordering pizza online for [IBM- TGMC 2013](http://www.ibmtgmc.com
 Features
 ==========================
 
-`Single sign on with Facebook and Twitter `
+`Authenticater - Single sign on with Facebook and Twitter `
 
 `Store Tracker - Locate pizza stores near your place with google maps`
 
