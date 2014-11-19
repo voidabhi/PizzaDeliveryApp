@@ -1,5 +1,5 @@
 /**
- * 	For showing directions on google map
+ * 	For showing directions on google maps into the application
  */
 
 
