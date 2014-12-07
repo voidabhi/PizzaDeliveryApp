@@ -28,6 +28,9 @@ Technologies Used
 `Facebook Graph API V1`
 `Google Maps API V2`
 
+Developed By
+============
+
 
 License
 ==========================
