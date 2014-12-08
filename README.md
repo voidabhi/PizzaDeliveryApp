@@ -31,6 +31,8 @@ Technologies Used
 Developed By
 ============
 
+`Abhijeet Mohan` - `void.aby@gmail.com`
+
 
 License
 ==========================
