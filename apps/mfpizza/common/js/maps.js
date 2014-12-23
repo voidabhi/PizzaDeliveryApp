@@ -54,7 +54,7 @@
                 });
                 
 
-                // calculate Route
+                
                 calculateRoute();
             }
 
@@ -68,6 +68,7 @@
                 initializeMapAndCalculateRoute(position.coords.latitude, position.coords.longitude);
             }
 
+		// calculates route b/w given target n destination
             function calculateRoute() {
 
                 var targetDestination =  new google.maps.LatLng(destinationLatitude, destinationLongitude);
