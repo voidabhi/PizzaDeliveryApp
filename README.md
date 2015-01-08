@@ -44,7 +44,7 @@ License
 ==========================
 
 ```
-Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/android
+Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/worklight-PizzaDeliveryApp
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
