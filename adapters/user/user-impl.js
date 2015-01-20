@@ -20,6 +20,8 @@ function procedure1(param) {
 	});
 }
 
+// Getting customer details based on unique customer id
+
 /************************************************************************
  * Implementation code for procedure - 'procedure2'
  *
