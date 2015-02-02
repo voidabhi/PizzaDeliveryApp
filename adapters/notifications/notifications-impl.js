@@ -12,7 +12,9 @@
  * @return - invocationResult
  */
  
-var procedure1Statement = WL.Server.createSQLStatement("select * from notifications");
+ var selectAllNotificationsQuery = "select * from notifications";
+ 
+var procedure1Statement = WL.Server.createSQLStatement(selectAllNotificationsQuery);
 function procedure1(param) {
 	return WL.Server.invokeSQLStatement({
 		preparedStatement : procedure1Statement,
