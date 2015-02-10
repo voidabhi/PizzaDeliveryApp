@@ -13,7 +13,7 @@ Features
 
 `Order Placer - Place customized pizza order with bevarages and add-ons`
 
-`Notifier- Receive notifications of discounts and deals`
+`Notifier - Receive notifications of discounts and deals`
 
 
 Technologies Used
