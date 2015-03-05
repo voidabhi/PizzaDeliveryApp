@@ -8,7 +8,7 @@
 /************************************************************************
  * Implementation code for procedure - 'procedure1'
  *
- *
+ * Aggregating required data and sending to the frontend
  * @return - invocationResult
  */
  
