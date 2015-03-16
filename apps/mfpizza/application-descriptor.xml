@@ -10,8 +10,8 @@
 	xmlns="http://www.worklight.com/application-descriptor" 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-	<displayName>mfpizza</displayName>
-	<description>mfpizza</description>
+	<displayName>MFPizza</displayName>
+	<description>MFPizza</description>
 	<author>
 		<name>application's author</name>
 		<email>application author's e-mail</email>
