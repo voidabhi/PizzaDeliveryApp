@@ -1,4 +1,4 @@
-
+// passing location of attthe store
 
 function locateStore()
 {
