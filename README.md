@@ -23,6 +23,7 @@ Technologies Used
 `HTML 5`
 `CSS 3`
 `Jquery 1.7.2`
+`Jquery Mobile`
 `Javascript`
 `Java 7 SE`
 `Facebook Graph API V1`
