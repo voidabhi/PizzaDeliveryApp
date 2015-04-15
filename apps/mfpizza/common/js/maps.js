@@ -7,6 +7,8 @@
                 currentPosition,
                 directionsDisplay,
                 directionsService,
+                
+                // lat and lng location of destination
                 destinationLatitude,
                 destinationLongitude,
 				map_canvas, // Id of the element where map will be shown
