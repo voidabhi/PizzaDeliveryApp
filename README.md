@@ -26,7 +26,7 @@ Technologies Used
 `Jquery Mobile`
 `Javascript`
 `Java 7 SE`
-`Facebook Graph API V1`
+`Facebook Graph API v1`
 `Google Maps API V2`
 
 Developed By
