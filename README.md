@@ -22,8 +22,8 @@ Technologies Used
 `IBM Worklight Framework - Eclipse Plugin`
 `HTML 5`
 `CSS 3`
-`Jquery 1.7.2`
-`Jquery Mobile`
+`JQuery 1.7.2`
+`JQuery Mobile`
 `Javascript`
 `Java 7 SE`
 `Facebook Graph API v1`
