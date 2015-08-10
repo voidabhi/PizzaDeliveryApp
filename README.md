@@ -22,7 +22,7 @@ Technologies Used
 `IBM Worklight Framework - Eclipse Plugin`
 `HTML5`
 `CSS3`
-`JQuery 1.7.2`
+`JQuery 1.7.3`
 `JQuery Mobile`
 `Javascript`
 `Java 7 SE`
