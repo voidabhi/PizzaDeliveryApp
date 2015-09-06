@@ -128,6 +128,7 @@ function newOrder()
 	}
 }
 
+// helper for notifying error
 function fail()
 {
 	alert("Some error occurred!");
