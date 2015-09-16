@@ -19,7 +19,7 @@ Features
 Technologies Used
 ==========================
 
-`IBM Worklight Framework - Eclipse Plugin`
+`IBM Worklight Framework - Eclipse Juno Plugin`
 `HTML5`
 `CSS3`
 `JQuery 1.7.3`
