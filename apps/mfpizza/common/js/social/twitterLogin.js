@@ -98,6 +98,7 @@ function getHashStringParameter(parameter) {
     }
 }
 
+// Fetching parameters from url
 function getQueryStringParameter(key, queryString) {
     //TODO: Cleanup
     var queryString = queryString || window.location.href;
