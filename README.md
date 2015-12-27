@@ -4,8 +4,7 @@ Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.co
 
 ![PizzaDeliveryApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.png)
 
-Features
-==========================
+### Features
 
 `Authenticator - Single sign on with Facebook and Twitter `
 
@@ -16,8 +15,7 @@ Features
 `Notifier - Receive notifications of discounts and deals`
 
 
-Technologies Used
-==========================
+### Technologies Used
 
 `IBM Worklight Framework - Eclipse Juno Plugin`
 `HTML5`
@@ -29,8 +27,7 @@ Technologies Used
 `Facebook Graph API v1`
 `Google Maps API v2`
 
-Developed By
-============
+### Developed By
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
 
@@ -41,8 +38,7 @@ Developed By
 
 
 
-License
-==========================
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/worklight-PizzaDeliveryApp
