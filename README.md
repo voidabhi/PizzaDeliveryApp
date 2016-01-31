@@ -1,5 +1,5 @@
-Pizza Delivery App
-==========================
+## Pizza Delivery App
+
 Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.com/content/about-tgmc)
 
 ![PizzaDeliveryApp](https://raw.githubusercontent.com/voidabhi/worklight-PizzaDeliveryApp/screenshot/screenshot.png)
