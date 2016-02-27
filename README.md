@@ -36,7 +36,9 @@ Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.co
        src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
 </a>
 
+### Contributing
 
+- Please use the [issue tracker](https://github.com/voidabhi/PizzaDeliveryApp/issues) to report any bugs or file feature requests.
 
 ### License
 
