@@ -18,6 +18,7 @@ Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.co
 ### Technologies Used
 
 `IBM Worklight Framework - Eclipse Juno Plugin`
+`IBM DB2`
 `HTML5`
 `CSS3`
 `JQuery 1.7.3`
