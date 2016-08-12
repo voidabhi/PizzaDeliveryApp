@@ -113,6 +113,8 @@ function newOrder()
 			parameters:[]
 			
 	};
+	
+	// options data with invocation
 	var options = {
 			onSuccess:pizzaOrderSuccess,
 			onFailure:fail
@@ -121,6 +123,7 @@ function newOrder()
 	WL.Client.invokeProcedure(invocationData, options);
 	window.location.replace("#pizzaOrderPage");
 	
+	// process pizza
 	function pizzaOrderSuccess(result)
 	{
 		//$("#test").append(pizzaItem("","","","",""));
