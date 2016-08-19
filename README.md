@@ -28,6 +28,12 @@ Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.co
 `Facebook Graph API v1`
 `Google Maps API v2`
 
+### Building
+
+```sh
+  sh build.sh
+```
+
 ### Developed By
 
 `Abhijeet Mohan` - `void.aby@gmail.com`
