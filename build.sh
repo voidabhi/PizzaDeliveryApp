@@ -1,3 +1,4 @@
 
 
-# build script
+# lint
+jshint apps/mfpizza
