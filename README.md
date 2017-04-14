@@ -31,7 +31,7 @@ Mobile app for ordering pizza. Submission for [IBM- TGMC 2013](http://ibmtgmc.co
 ### Building
 
 ```sh
-  sh build.sh
+  $ sh build.sh
 ```
 
 ### Developed By
